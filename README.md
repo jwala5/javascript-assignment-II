@@ -1,4 +1,4 @@
-##Exercise Módule 01 - Manipulate a DOM ✌️
+Exercise Módule 01 - Manipulate a DOM ✌️
 
 1️⃣** Exercise** 📝
 Create a button that when clicked creates a new screen element shaped like a red square 100px tall and wide. Whenever the button is clicked a new square should appear on the screen.
@@ -34,7 +34,7 @@ Following the result of the previous exercise add a screen input and a button as
 <button onClick="add()">Add</button>
 When you click the button, the add() function must be triggered by adding a new item to the list of names based on the name filled in the input and rendering the new item on screen together with the other previous items. In addition, the contents of the input should be deleted after the click
 
-##Exercises Module 02 - JS Asynchronous :
+Exercises Module 02 - JS Asynchronous :
 
 1️**exercise** Create a role that is the age of a user and returns a Promise that after 2 seconds will return whether or not the user is older than 18. If the user is over 18 years of age the result should fall in the other way, in the .then,.catch
 
